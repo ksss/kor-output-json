@@ -1,6 +1,8 @@
 kor-output-json
 ===
 
+[![Build Status](https://travis-ci.org/ksss/kor-output-json.svg?branch=master)](https://travis-ci.org/ksss/kor-output-json)
+
 JSON output plugin for kor.
 
 ## Usage
